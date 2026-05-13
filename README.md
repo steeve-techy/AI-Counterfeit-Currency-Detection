@@ -52,7 +52,7 @@ User Upload → FastAPI Backend → Image Preprocessing → TensorFlow Model →
 ## Results
 
 ### Counterfeit Device
-![Counterfeit device](screenshots/Counterfeit device.jpeg)
+![Counterfeit device](screenshots/Counterfeit%20device.jpeg)
 
 ### Graph
 ![Graph](screenshots/Graph.jpg)
