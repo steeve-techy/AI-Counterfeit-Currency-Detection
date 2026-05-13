@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# AI/ML model files
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
