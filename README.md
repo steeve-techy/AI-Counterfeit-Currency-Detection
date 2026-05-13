@@ -48,3 +48,20 @@ Counterfeit currency circulation creates financial and security challenges. Manu
 
 ```text
 User Upload → FastAPI Backend → Image Preprocessing → TensorFlow Model → Prediction Response
+
+## Results
+
+### Counterfeit Device
+![Counterfeit device](screenshots/Counterfeit device.jpeg)
+
+### Graph
+![Graph](screenshots/Graph.jpg)
+
+### Picture2
+![Picture2](screenshots/Picture2.jpg)
+
+### Picture3
+![Picture3](screenshots/Picture3.jpg)
+
+### Picture4
+![Picture4](screenshots/Picture4.jpg)
