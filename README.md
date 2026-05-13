@@ -46,7 +46,6 @@ Counterfeit currency circulation creates financial and security challenges. Manu
 
 ## System Architecture
 
-```text
 User Upload → FastAPI Backend → Image Preprocessing → TensorFlow Model → Prediction Response
 
 ## Results
